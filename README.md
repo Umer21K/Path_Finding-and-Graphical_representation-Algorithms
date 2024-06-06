@@ -50,5 +50,5 @@ A graph whose vertices can be divided into three disjoint sets such that no two 
 ## Havel-Hakimi Algorithm
 An implementation of the Havel-Hakimi algorithm to construct a simple graph from a given degree sequence.
 
-##Graphical Presentations
+## Graphical Presentations
 The project includes graphical representations for all the implemented algorithms and graph types. The visualizations are created using libraries such as Matplotlib .
